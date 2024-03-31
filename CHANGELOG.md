@@ -5,3 +5,4 @@
 - 2024-03-14: fix royalty calculation
 - 2024-03-28: tweak gas limits in config
 - 2024-03-29: add initial project scaffold
+- 2024-03-31: document deployment steps
