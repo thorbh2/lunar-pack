@@ -8,3 +8,4 @@
 - 2024-03-31: document deployment steps
 - 2024-04-01: add initial project scaffold
 - 2024-04-01: add security notes
+- 2024-04-01: fix royalty calculation
