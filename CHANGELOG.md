@@ -10,3 +10,4 @@
 - 2024-04-01: add security notes
 - 2024-04-01: fix royalty calculation
 - 2024-04-09: bump dependency versions
+- 2024-04-09: add .env.example
