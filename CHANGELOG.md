@@ -11,3 +11,4 @@
 - 2024-04-01: fix royalty calculation
 - 2024-04-09: bump dependency versions
 - 2024-04-09: add .env.example
+- 2024-04-11: add whitelist merkle verification
